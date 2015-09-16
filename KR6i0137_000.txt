@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說未生冤經
+#+DATE: 2015-08-30 20:10:48.802003
+#+PROPERTY: JUAN 0
